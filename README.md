@@ -11,9 +11,9 @@
 <a href="mailto:anabel@list.ru">
     <img src="https://img.shields.io/badge/Mail.ru-white?style=for-the-badge&logo=Mail.ru&logoColor=blue" alt="Mail.ru Badge"/>
   </a>
-<!--  <a href="https://www.linkedin.com/in/anna-kozlova-bb1548228/">
+<a href="https://www.linkedin.com/in/anna-kozlova-bb1548228/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
+  </a>
   <br>
   </div>
   <br><br>
