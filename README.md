@@ -22,7 +22,7 @@
   <table>
   <tr>
     <th><a href="https://github.com/Anna-AK/Postman">
-    <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="GitHub Postman"/>
+    <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="GitHub Postman"/></a>
   </th><th> <a hreef="https://github.com/Anna-AK/Postman"> коллекции скриптов Postman </a></th></tr>
   <tr>
   <tr>
@@ -32,10 +32,10 @@
  <tr>
     <th><a href="https://github.com/Anna-AK/TelegramBot">
     <img src="https://img.shields.io/badge/TelegramBot-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="GitHub TelegramBot"/>
-  </a></th><th> телеграм-бот https://github.com/Anna-AK/TelegramBot</th></tr>
+  </a></th><th><a hreef="https://github.com/Anna-AK/TelegramBot"> телеграм-бот</a> </th></tr>
 <!--  <tr>
     <th><a href="https://github.com/Anna-AK/TelegramBot">
     <img src="https://img.shields.io/badge/Postman-blue?style=for-the-badge&logo=Postman&logoColor=white" alt="GitHub TelegramBot"/>
-  </a></th><th><a hreef="https://github.com/Anna-AK/Postman"> коллекция Postman </a></th>
+  </a></th><th> телеграм-бот https://github.com/Anna-AK/TelegramBot</th>
   </tr> -->
 </table>
