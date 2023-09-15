@@ -21,6 +21,11 @@
   <div>
   <table>
   <tr>
+    <th><a href="https://github.com/Anna-AK/Postman">
+    <img src="https://img.shields.io/badge/:Postman" alt="GitHub Postman"/>
+  </a></th><th> работы на Python https://github.com/Anna-AK/Postman</th></tr>
+  <tr>
+  <tr>
     <th><a href="https://github.com/Anna-AK/Python">
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white" alt="GitHub Python"/>
   </a></th><th> работы на Python https://github.com/Anna-AK/Python</th></tr>
