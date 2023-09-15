@@ -23,12 +23,12 @@
   <tr>
     <th><a href="https://github.com/Anna-AK/Postman">
     <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="GitHub Postman"/>
-  </th><th> коллекции скриптов Postman </a>https://github.com/Anna-AK/Postman</th></tr>
+  </th><th> <a hreef="https://github.com/Anna-AK/Postman"> коллекции скриптов Postman </a></th></tr>
   <tr>
   <tr>
     <th><a href="https://github.com/Anna-AK/Python">
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white" alt="GitHub Python"/>
-  </a></th><th> работы на Python https://github.com/Anna-AK/Python</th></tr>
+  </a></th><th><a hreef="https://github.com/Anna-AK/Python"> работы на Python </a> </th></tr>
  <tr>
     <th><a href="https://github.com/Anna-AK/TelegramBot">
     <img src="https://img.shields.io/badge/TelegramBot-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="GitHub TelegramBot"/>
@@ -36,6 +36,6 @@
 <!--  <tr>
     <th><a href="https://github.com/Anna-AK/TelegramBot">
     <img src="https://img.shields.io/badge/Postman-blue?style=for-the-badge&logo=Postman&logoColor=white" alt="GitHub TelegramBot"/>
-  </a></th><th> коллекция Postman https://github.com/Anna-AK/Postman</th>
+  </a></th><th><a hreef="https://github.com/Anna-AK/Postman"> коллекция Postman </a></th>
   </tr> -->
 </table>
