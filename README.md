@@ -23,14 +23,14 @@
   <tr>
     <th><a href="https://github.com/Anna-AK/Postman">
     <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="GitHub Postman"></a>
-  </th><th> <a hreef="https://github.com/Anna-AK/Postman"> коллекции скриптов Postman </a></th></tr>
+  </th><th> <a hreef="https://github.com/Anna-AK/Postman"> сделанные мною коллекции скриптов Postman </a></th></tr>
   <tr>
   <tr>
     <th><a href="https://github.com/Anna-AK/Python">
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white" alt="GitHub Python">
-  </a></th><th><a hreef="https://github.com/Anna-AK/Python"> работы на Python </a> </th></tr>
+  </a></th><th><a hreef="https://github.com/Anna-AK/Python"> мои работы на Python </a> </th></tr>
  <tr>
     <th><a href="https://github.com/Anna-AK/TelegramBot">
     <img src="https://img.shields.io/badge/TelegramBot-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="GitHub TelegramBot">
-  </a></th><th><a hreef="https://github.com/Anna-AK/TelegramBot"> телеграм-бот </a></th></tr>
+  </a></th><th><a hreef="https://github.com/Anna-AK/TelegramBot"> мой телеграм-бот </a></th></tr>
 </table>
