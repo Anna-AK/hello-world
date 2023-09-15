@@ -23,7 +23,7 @@
   <tr>
     <th><a href="https://github.com/Anna-AK/Postman">
     <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="GitHub Postman"/>
-  </a></th><th> коллекции скриптов Postman https://github.com/Anna-AK/Postman</th></tr>
+  </th><th> коллекции скриптов Postman </a>https://github.com/Anna-AK/Postman</th></tr>
   <tr>
   <tr>
     <th><a href="https://github.com/Anna-AK/Python">
